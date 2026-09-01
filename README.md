@@ -1,139 +1,129 @@
-# NESGESFinance Ecosystem S.A.S.
+# NESGESFinance Ecosystem — Documentación Institucional v3.1
 
-**Bitcoin-Native Productive & Social Ecosystem**  
-**Activo Digital:** NGF•BTC•AM (Bitcoin Rune – Layer 1)  
-**Whitepaper Oficial:** v1.0 – Febrero 2026  
-
----
-
-## 🧭 Descripción General
-
-NESGESFinance Ecosystem S.A.S. es una **Sociedad por Acciones Simplificada de Beneficio e Interés Colectivo (S.A.S. BIC)**, legalmente constituida en Ecuador, orientada al diseño y operación de un **ecosistema productivo, social y tecnológico construido exclusivamente sobre Bitcoin Layer 1**.
-
-El ecosistema **no es un proyecto financiero ni especulativo**. Utiliza activos digitales nativos de Bitcoin como **herramientas de coordinación, trazabilidad y respaldo de actividades reales**, priorizando la ética, la transparencia y el impacto social verificable.
+**"Y a tu prójimo como a ti mismo"**
+**Tokenización con Propósito**
 
 ---
 
-## 🔗 Activo Digital Principal
+## Acerca de NESGESFinance
 
-### NGF•BTC•AM — NESGESFinance Bitcoin Asset Model
+NESGESFinance Ecosystem es una infraestructura tecnológica construida sobre Bitcoin (L1/L2) orientada a la coordinación, registro y trazabilidad de proyectos productivos, sociales y ambientales del mundo real (RWA — Real World Assets).
 
-- **Tipo:** Fungible Rune  
-- **Red:** Bitcoin Mainnet (Layer 1)  
-- **Estándar:** Protocolo Runes  
-- **Rune Number:** #208,645  
-- **Supply Total:** 5,930,000,000 (fijo)  
-- **Divisibilidad:** 0  
-- **Mintable:** No  
-- **Burnable:** No  
-- **Naturaleza:** Activo utilitario no financiero  
-
-> NGF•BTC•AM **no representa acciones, no otorga derechos patrimoniales y no promete retornos financieros**.
+Este repositorio consolida la documentación institucional oficial de la versión **v3.1**, la cual reemplaza y depura todo material previo, eliminando inconsistencias, referencias a proyectos específicos y afirmaciones no verificadas.
 
 ---
 
-## 🔍 Verificación On-Chain
+## Entidades del Ecosistema
 
-Toda la información del activo es **pública y verificable directamente en la blockchain de Bitcoin**:
+| Entidad | Rol | Jurisdicción | Identificador |
+|---|---|---|---|
+| NESGESFinance Ecosystem S.A.S. BIC | Coordinador tecnológico (no propietario de activos) | Ecuador (Ibarra) | RUC 1091799299001 |
+| NESGESFinance Ecosystem S.A.S. LLC | SPV propietaria / emisora | New Mexico, EE.UU. | File #3168825 · EIN 0008086872 |
 
-- **TXID de Inscripción:**  
-  `4c0b2416f3dd122025f89a62d7ff265fcee8d00e0fabd874669617cf85437c82`
-
-- **Exploradores compatibles:**  
-  - UniScan (Runes)  
-  - mempool.space  
-  - Indexadores Bitcoin-native compatibles con Runes
-
-La transparencia es **estructural**, no opcional.
+**Asesoría Jurídica Institucional:** ABG. Byrón Fabián Bedón R. (MAT. 10-2008-44)
+**Oficial de Cumplimiento:** Guadalupe Aguirre De Ascencio
 
 ---
 
-## 🧱 Arquitectura Tecnológica
+## Activo de Utilidad: NGF•BTC•AM
 
-El ecosistema se construye bajo un enfoque **Bitcoin-first**, sin contratos inteligentes complejos ni dependencias externas.
+| Campo | Valor |
+|---|---|
+| Nombre | NGF•BTC•AM |
+| Protocolo | Bitcoin Runes |
+| Rune ID | 923867:120 |
+| Rune Number | #208,645 |
+| Bloque de Inscripción | 923867 |
+| Suministro Total | 5,930,000,000 |
+| Divisibilidad | 0 (sin decimales) |
+| Minteable / Quemable | No |
 
-**Capas previstas:**
+> **Declaración importante:** NGF•BTC•AM es un activo de utilidad técnica. No es un *security*, no representa acciones societarias, no otorga derechos económicos ni garantiza rendimiento o liquidez.
 
-- **L1 – Bitcoin Mainnet (Runes):** Emisión y trazabilidad primaria  
-- **L2 – Lightning Network:** Pagos instantáneos y uso operativo  
-- **Taproot Assets:** Representación eficiente 1:1 del activo  
-- **Custodia:** Multifirma 3/5 (S.A.S. + Auditor + Aliado)
+### Tokenomics v5.0
 
----
-
-## ⚖️ Principios Rectores
-
-- **Transparencia verificable (on-chain y off-chain)**  
-- **Ética operativa y rechazo explícito de la especulación**  
-- **Descentralización progresiva**  
-- **Responsabilidad tecnológica**  
-- **Impacto social, ambiental y productivo real**
-
-Principio filosófico orientador:
-
-> *“Y a tu prójimo como a ti mismo.”*
-
----
-
-## 🏗️ Proyectos del Ecosistema
-
-El ecosistema respalda proyectos **reales y verificables**, entre ellos:
-
-- Economía circular (plástico → combustible)
-- Agroindustria con trazabilidad
-- Energía y biomasa
-- Turismo e inmuebles productivos
-- Proyectos sociales y rescate animal
-- Iniciativas comunitarias de impacto directo
-
-NGF•BTC•AM funciona como **unidad de coordinación y trazabilidad**, no como instrumento de inversión.
+| Asignación | Porcentaje |
+|---|---:|
+| Reserva Estratégica y Liquidez | 30% |
+| Proyectos Productivos | 25% |
+| Social y Ambiental | 15% |
+| Alianzas y Gobernanza | 10% |
+| Tesorería Operativa | 10% |
+| Comunidad / Staking | 5% |
+| Equipo y Asesores | 4% |
+| Gastos Operativos | 1% |
+| **Total** | **100%** |
 
 ---
 
-## 🧑‍⚖️ Gobernanza
+## Índice de Documentación v3.1
 
-Modelo híbrido:
+Este repositorio agrupa los siguientes cinco entregables institucionales, coherentes entre sí y alineados a la directriz v3.1 (contenido 100% genérico, sin mención de proyectos específicos):
 
-- **Gobernanza corporativa:** S.A.S. BIC (responsabilidad legal)
-- **Gobernanza comunitaria (fase futura):** DAO no financiera
+### 1. Whitepaper Institucional v3.1
+`NESGESFinance_Whitepaper_Institucional_v3_1.docx`
 
-Las decisiones estratégicas no se rigen por incentivos económicos, sino por **alineación ética, viabilidad real e impacto medible**.
+Documento fundacional que describe la misión, visión, marco legal, arquitectura tecnológica (Bitcoin L1/L2, Runes, Taproot Assets, Lightning Network), el activo NGF•BTC•AM, la tokenomics v5.0, el proceso genérico de postulación de proyectos en 7 fases y el proceso genérico de participación comunitaria en 8 pasos.
 
----
+### 2. Especificación Técnica NGF•BTC•AM v3.1
+`NESGESFinance_Especificacion_Tecnica_NGF_BTC_AM_v3_1.docx`
 
-## 📂 Contenido del Repositorio
+Detalla la identidad on-chain del activo (Rune #208,645, ID 923867:120), sus parámetros técnicos inmutables, la tokenomics v5.0 desglosada y los límites funcionales explícitos del token (qué es y qué no es).
 
-Este repositorio contiene:
+### 3. Matriz de Alineación de GitHub Pages v3.1
+`NESGESFinance_Matriz_Alineacion_GitHub_Pages_v3_1.docx`
 
-- 📄 Whitepaper oficial (PDF)
-- 📑 Documentación técnica
-- 🔗 Referencias on-chain
-- 🧾 Historial de versiones
-- 📚 Recursos públicos de auditoría
+Guía de auditoría para sanear las rutas del sitio web institucional (18 secciones), identificando contenido a corregir, eliminar o reclasificar (implementado / en desarrollo / planificado / no disponible), con el fin de alinear `NESGESFinance.app` y los sitios públicos con la narrativa v3.1.
 
----
+### 4. Pitch Deck Institucional v3.1
+`NESGESFinance_Pitch_Deck_Institucional_v3_1.docx`
 
-## ⚠️ Aviso Legal
+Guion de 18 diapositivas para presentaciones públicas e institucionales, con contenido genérico y prudente, coherente con el Whitepaper y la Especificación Técnica, sin mencionar proyectos ni series específicas.
 
-Este repositorio y su documentación:
+### 5. Paquete Jurídico-Comunicacional v3.1
+`NESGESFinance_Paquete_Juridico_Comunicacional_v3_1.docx`
 
-- ❌ No constituyen una oferta pública de valores  
-- ❌ No representan una invitación a invertir  
-- ❌ No proporcionan asesoría financiera, legal ni fiscal  
-
-Su finalidad es **informativa, técnica y descriptiva**.
-
----
-
-## 📬 Información de Contacto
-
-**NESGESFinance Ecosystem S.A.S.**  
-Jurisdicción: Ibarra – Imbabura, Ecuador  
-Entidad: Sociedad de Beneficio e Interés Colectivo (S.A.S. BIC)
+Compendio de textos legales y de cumplimiento para su publicación en canales digitales:
+- Términos y Condiciones Generales de Uso.
+- Aviso Legal y Delimitación de Responsabilidad.
+- Declaración de Divulgación de Riesgos.
+- Política de Privacidad y Protección de Datos.
+- Política KYC/AML/CFT.
+- Textos de consentimiento para formularios digitales.
 
 ---
 
-## 📜 Licencia
+## Principios Rectores v3.1
 
-© 2025–2026 NESGESFinance Ecosystem S.A.S.  
-Todos los derechos reservados.
+- **Transparencia radical:** toda afirmación pública debe ser verificable e identificable como *implementada*, *en desarrollo*, *planificada* o *conceptual*.
+- **Genericidad institucional:** los materiales públicos no deben nombrar proyectos, series o activos específicos (p. ej. Serie A interna); esa información permanece en documentación interna no publicada.
+- **Separación de roles:** la S.A.S. BIC (Ecuador) coordina tecnología; la S.A.S. LLC (New Mexico) actúa como SPV/emisora. Ningún proyecto individual se presenta como propiedad directa de la coordinadora tecnológica.
+- **Sin promesas económicas:** ninguna pieza de comunicación debe insinuar rendimiento, recompra garantizada o naturaleza de valor mobiliario para NGF•BTC•AM.
+
+---
+
+## Estado del Repositorio
+
+| Documento | Versión | Estado |
+|---|---|---|
+| Whitepaper Institucional | v3.1 | Generado |
+| Especificación Técnica NGF•BTC•AM | v3.1 | Generado |
+| Matriz de Alineación GitHub Pages | v3.1 | Generado |
+| Pitch Deck Institucional | v3.1 | Generado |
+| Paquete Jurídico-Comunicacional | v3.1 | Generado |
+
+> **Nota:** Los documentos jurídicos incluidos en este repositorio constituyen borradores institucionales de trabajo. Requieren revisión y validación por la asesoría jurídica correspondiente antes de su publicación definitiva en `NESGESFinance.app` o en cualquier canal oficial.
+
+---
+
+## Contacto Institucional
+
+- **Correo institucional:** info.nesgesfinance@gmail.com
+- **Alianzas:** alianzas@nesgesfinance.org
+- **Ubicación:** Imbabura – Ibarra, Ecuador
+- **RUC:** 1091799299001
+
+---
+
+© 2025-2026 NESGESFinance Ecosystem S.A.S. BIC / LLC. Todos los derechos reservados.
+*"Y a tu prójimo como a ti mismo" — Tokenización con Propósito.*
