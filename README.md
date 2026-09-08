@@ -1,6 +1,6 @@
 # NESGESFinance Ecosystem — Documentación Institucional v3.1
 
-**"Y a tu prójimo como a ti mismo"**
+**"Y a tu prójimo como a tí mismo"**
 **Tokenización con Propósito**
 
 ---
@@ -21,7 +21,7 @@ Este repositorio consolida la documentación institucional oficial de la versió
 | NESGESFinance Ecosystem S.A.S. LLC | SPV propietaria / emisora | New Mexico, EE.UU. | File #3168825 · EIN 0008086872 |
 
 **Asesoría Jurídica Institucional:** ABG. Byrón Fabián Bedón R. (MAT. 10-2008-44)
-**Oficial de Cumplimiento:** Guadalupe Aguirre De Ascencio
+**Oficial de Cumplimiento:** Joan Santiago Ramírez Almeida 
 
 ---
 
@@ -119,7 +119,7 @@ Compendio de textos legales y de cumplimiento para su publicación en canales di
 ## Contacto Institucional
 
 - **Correo institucional:** info.nesgesfinance@gmail.com
-- **Alianzas:** alianzas@nesgesfinance.org
+- **Alianzas:** info@nesgesfinance.org
 - **Ubicación:** Imbabura – Ibarra, Ecuador
 - **RUC:** 1091799299001
 
